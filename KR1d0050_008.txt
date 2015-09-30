@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 內外服制通釋
-#+DATE: 2015-09-23 09:37:56
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:09:47.807131
+#+PROPERTY: ID KR1d0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [跋]
 <pb:KR1d0050_WYG_008-1a>¶
 雙峰先生内外服制通釋余聞其書舊矣今始獲一覩¶
 其發明朱夫子家禮殆無餘藴豈曰小補之哉因思丱¶
@@ -33,4 +35,3 @@
 易知親疎隆殺之等人人可得而盡矣必師友講説云¶
 乎有補于治教明矣時至元後戊寅仲夏中澣從子惟¶
 賢百拜謹跋¶
-
